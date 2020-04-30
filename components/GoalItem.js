@@ -15,7 +15,7 @@ const GoalItem = (props) => {
 const styles = StyleSheet.create({
   listItem: {
     padding: 10,
-    marginVertical: 10, //marginVertical diye birşey daha var cssde olmayan
+    marginVertical: 10,
     backgroundColor: "#ccc",
     borderColor: "black",
     borderWidth: 1,
